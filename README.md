@@ -1,2 +1,2 @@
 # Ethereum-Api
-Creating a smart contract API with Infura and Compound
+Creating a Smart C upontract API with Infura and Compound
